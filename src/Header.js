@@ -20,7 +20,7 @@ function Header(){
                     <a href="https://github.com/MrAfrazKhan/memeter" ><i  className="fa fa-github"></i></a><sup>Code here</sup>
                     
                 </h6>
-        built with Reactjs
+                <span id='react' >- built with <a href="https://www.reactjs.org" >Reactjs</a> -</span>
             </p>
                 </div>
             </div>
