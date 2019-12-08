@@ -33,7 +33,7 @@ class App extends React.Component{
             document.getElementsByClassName('meme')[0].style.backgroundColor = 'black'
 
             html2canvas(document.getElementsByClassName('meme')[0], {allowTaint:true, backgroundColor:null}).then(canvas => {            
-                saveAs(canvas.toDataURL(), this.state.imgName)
+                saveAs(canvas.toDataURL(), (this.state.imgName.split('.')[0] + ".png"))
             })
             document.getElementById('footer').style.display = 'none'
         }
