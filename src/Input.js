@@ -7,10 +7,10 @@ function Input(props){
         <form className="form">
                      <div className='row' >
                 <div className="form-group col-md-3 mb-2">
-                    <input onChange={props.onchange} type="text" className="form-control" name="toptext" placeholder='Enter Top Text' />
+                    <input onChange={props.onchange} type="text" className="form-control" name="toptext" placeholder='Enter Meme Top Text' />
                 </div>
                 <div className="form-group mx-sm col-md-3 mb-2">
-                    <input onChange={props.onchange} type="text" className="form-control" name="bottomtext" placeholder="Enter Bottom Text" />
+                    <input onChange={props.onchange} type="text" className="form-control" name="bottomtext" placeholder="Enter Meme Bottom Text" />
                 </div>
                 <div className='col-md-2' >
                 <label htmlFor='upload' className='label label-primary' >Select Image🎚</label>
