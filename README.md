@@ -13,4 +13,4 @@ React Concepts implemented:<hr/>
 * props handling
 * Controlled Components
 
-This :point_right:[freecodecamp Crash Course](https://www.freecodecamp.org/news/learn-react-course/) is very simple & comprehensively explained:zap: as a React Starter. Go for it :running:	goodluck:trollface::thumbsup:
+This :point_right:[freecodecamp Crash Course](https://www.freecodecamp.org/news/learn-react-course/) is very simple & comprehensively explained:zap: as a React Starter. Go for it :running:	goodluck :thumbsup: :trollface:
