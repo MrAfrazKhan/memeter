@@ -3,5 +3,11 @@ A **Text Meme Generator** with an Image, built with [Reatjs](https://reactjs.org
 
 > *_A motivation :blush: just for newbies :japanese_ogre:_*, live here :point_right: [Memeter](https://mrafrazkhan.github.io/memeter/)
 
-> Concepts explored
+> React Concepts implemented:
 * States
+* Functional Components
+* Class based Components
+* React Event Handling
+* State change
+* props handling
+* Controlled Components
