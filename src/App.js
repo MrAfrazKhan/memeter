@@ -28,11 +28,14 @@ class App extends React.Component{
         if (this.state.img === '' || this.state.img === null){
             alert('🔧please, select an image first. 😧')
         }else{
+
+            document.getElementById('footer').style.display = 'block'
             document.getElementsByClassName('meme')[0].style.backgroundColor = 'black'
 
             html2canvas(document.getElementsByClassName('meme')[0], {allowTaint:true, backgroundColor:null}).then(canvas => {            
                 saveAs(canvas.toDataURL(), this.state.imgName)
             })
+            document.getElementById('footer').style.display = 'none'
         }
 
     }
