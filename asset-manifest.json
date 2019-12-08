@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/memeter/static/css/main.f8cf6fae.chunk.css",
-    "main.js": "/memeter/static/js/main.dd8e3ac2.chunk.js",
-    "main.js.map": "/memeter/static/js/main.dd8e3ac2.chunk.js.map",
+    "main.css": "/memeter/static/css/main.c8c621ca.chunk.css",
+    "main.js": "/memeter/static/js/main.ff1c6233.chunk.js",
+    "main.js.map": "/memeter/static/js/main.ff1c6233.chunk.js.map",
     "runtime-main.js": "/memeter/static/js/runtime-main.5afa3cf5.js",
     "runtime-main.js.map": "/memeter/static/js/runtime-main.5afa3cf5.js.map",
     "static/js/2.1a47c354.chunk.js": "/memeter/static/js/2.1a47c354.chunk.js",
     "static/js/2.1a47c354.chunk.js.map": "/memeter/static/js/2.1a47c354.chunk.js.map",
     "index.html": "/memeter/index.html",
-    "precache-manifest.e626e01ce7982523a66395f1545c67fc.js": "/memeter/precache-manifest.e626e01ce7982523a66395f1545c67fc.js",
+    "precache-manifest.a426a2af1a26c94adc6264638c0cf43b.js": "/memeter/precache-manifest.a426a2af1a26c94adc6264638c0cf43b.js",
     "service-worker.js": "/memeter/service-worker.js",
-    "static/css/main.f8cf6fae.chunk.css.map": "/memeter/static/css/main.f8cf6fae.chunk.css.map",
+    "static/css/main.c8c621ca.chunk.css.map": "/memeter/static/css/main.c8c621ca.chunk.css.map",
     "static/js/2.1a47c354.chunk.js.LICENSE": "/memeter/static/js/2.1a47c354.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.5afa3cf5.js",
     "static/js/2.1a47c354.chunk.js",
-    "static/css/main.f8cf6fae.chunk.css",
-    "static/js/main.dd8e3ac2.chunk.js"
+    "static/css/main.c8c621ca.chunk.css",
+    "static/js/main.ff1c6233.chunk.js"
   ]
 }
