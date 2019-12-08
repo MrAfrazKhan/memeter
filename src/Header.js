@@ -7,7 +7,7 @@ function Header(){
                 <div className='col-md-6' >
                     <img src='https://www.freepngimg.com/thumb/internet_meme/3-2-troll-face-meme-png-thumb.png' />
                     Memeter
-                    <h6>A Text Meme Generator</h6>
+                    <h6>A Text Meme Generator built with Reactjs</h6>
                 </div>
                 <div className='col-md-6 contact' >
                 <p><h6 style={{border:"1px solid gray", padding:"10px", color: "#666666", fontWeight: 700,
