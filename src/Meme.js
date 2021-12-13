@@ -7,7 +7,7 @@ function Meme(props){
             <p >{props.toptext}</p>
             <img id='memeImg' src={props.img} />  
             <p>{props.bottomtext}</p>
-            <h6 id = "footer" >https://mrafrazkhan.github.io/memeter</h6>
+            <h6 id = "footer" >https://afraz-khan.github.io/memeter</h6>
             </div>
     )
 }
